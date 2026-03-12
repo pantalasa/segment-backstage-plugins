@@ -5,7 +5,7 @@
       <source media="(prefers-color-scheme: dark)" srcset="media/twilio-segment-dark.png" />
       <img alt="Twilio Segment" src="media/twilio-segment-light.png" width="200" />
     </picture>
-  </a>
+  </a> 
   <br>
   <p>The Leading Customer Data Platform</p>
   <hr>
