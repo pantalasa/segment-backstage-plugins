@@ -8,7 +8,7 @@
   </a> 
   <br>
   <p>The Leading Customer Data Platform</p> 
-  <hr>
+  <hr> 
   <br>
 </div>   
 
