@@ -7,7 +7,7 @@
     </picture>
   </a> 
   <br>
-  <p>The Leading Customer Data Platform</p>
+  <p>The Leading Customer Data Platform</p> 
   <hr>
   <br>
 </div>  
