@@ -10,7 +10,7 @@
   <p>The Leading Customer Data Platform</p>
   <hr>
   <br>
-</div> 
+</div>  
 
 <div align="center">
   <h3>Backstage plugins created by Twilio Segment</h3>
